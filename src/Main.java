@@ -46,7 +46,7 @@ public class Main {
     public static void calurosos(double[] array){
             for (double n : array){
                 if (n>=30) {
-                    System.out.print(n);
+                    System.out.print(n+" ");
                 }
             }
     }
